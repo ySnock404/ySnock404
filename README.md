@@ -15,8 +15,9 @@ const Contact = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ySnock404&show_icons=true?&theme=gotham" alt="ySnock" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ySnock404&theme=gotham&layout=compact)" />
+ <br>
 </p>
 
-<p>
+
 ⭐️ Im [ySnock](https://github.com/ySnock404)
-</p>
+
