@@ -8,7 +8,7 @@
 
 ```js
 const Contact = { 
- 💻Discord: "ySnock#6666",
+ 💻Discord: "ySnock#8360",
 }
 ```
  ------------
