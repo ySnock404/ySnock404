@@ -1,6 +1,6 @@
 👋 Hey, Este é o meu perfil! :computer:
  ------------
-<img align='right' src='https://media.giphy.com/media/YyKPbc5OOTSQE/giphy.gif' width='200"'>
+<img align='right' src='https://i.pinimg.com/originals/86/41/80/86418032b715698a4dfa6684b50c12af.gif' width='200"'>
 
  # 👨‍💻 OS e Linguagens: <div align="center">  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://wiki.python.org/moin/BeginnersGuide) [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-pt/windows/get-windows-10)
 
