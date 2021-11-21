@@ -8,7 +8,7 @@
 
 ```js
 const Contact = { 
- 💻Discord: "ySnock#8360",
+ 💻Discord: "pogfrog#8360",
 }
 📚 Computer Systems Management and Programming student
 ```
